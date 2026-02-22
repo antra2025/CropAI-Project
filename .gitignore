@@ -1,0 +1,8 @@
+venv/
+.history/
+__pycache__/
+*.pyc
+.env
+datasets/
+models/
+notebooks/
