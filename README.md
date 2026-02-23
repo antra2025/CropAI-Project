@@ -5,8 +5,6 @@
 
 *A Deep Learning + Machine Learning-based system for crop disease detection, crop recommendation, and fertilizer recommendation.*
 
-![CropAI Banner](https://github.com/antra2025/CropAI-Project/blob/master/ChatGPT%20Image%20Dec%208,%202025,%2002_39_04%20AM.png?raw=true)
-
 ---
 
 # 🚀 **Project Overview**
