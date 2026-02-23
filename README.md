@@ -313,9 +313,8 @@ Perfect for:
 
 # 👤 **Author**
 
-**Akhil Saurabh**
+**Antra Mishra**
 
 
 =======
 # CropAI-Project
->>>>>>> fd2374120db9ec86349f304bcd7844a5ea3b2f07
