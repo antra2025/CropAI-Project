@@ -5,7 +5,7 @@
 
 *A Deep Learning + Machine Learning-based system for crop disease detection, crop recommendation, and fertilizer recommendation.*
 
-![CropAI Banner](https://github.com/AKHIL-SAURABH/CropAI-Project/blob/master/ChatGPT%20Image%20Dec%208,%202025,%2002_39_04%20AM.png?raw=true)
+![CropAI Banner](https://github.com/antra2025/CropAI-Project/blob/master/ChatGPT%20Image%20Dec%208,%202025,%2002_39_04%20AM.png?raw=true)
 
 ---
 
@@ -225,20 +225,21 @@ Predict disease from uploaded image.
 # 🖼️ **Screenshots**
 
 All screenshots are stored in the `/screenshots` folder on GitHub.
+### **Login & Register**
+![Login & Register](https://github.com/antra2025/CropAI-Project/blob/main/screenschots/login%26%20register.png)
 
 ### **Dashboard Homepage**
 
-![Dashboard Homepage](https://github.com/AKHIL-SAURABH/CropAI-Project/blob/master/screenschots/dashboard_homepage.jpg)
+![Dashboard Homepage](https://github.com/antra2025/CropAI-Project/blob/main/screenschots/Dashboard.png)
 
 ### **Disease Prediction**
-![Disease Prediction](https://github.com/AKHIL-SAURABH/CropAI-Project/blob/master/screenschots/crop_diseas1.jpg)
-![Disease Prediction](https://github.com/AKHIL-SAURABH/CropAI-Project/blob/master/screenschots/crop_diseas2.jpg)
+![Disease Prediction](https://github.com/antra2025/CropAI-Project/blob/main/screenschots/crop_diseas1.png)
 
 ### **Crop Recommendation**
-![Crop Recommendation](https://github.com/AKHIL-SAURABH/CropAI-Project/blob/master/screenschots/crop_reccomendation.jpg)
+![Smart Crop Recommendation](https://github.com/antra2025/CropAI-Project/blob/main/screenschots/smart%20crop.png)
 
 ### **Fertilizer Recommendation**
-![Fertilizer Recommendation](https://github.com/AKHIL-SAURABH/CropAI-Project/blob/master/screenschots/fertilizer_recommendation.jpg)
+![Fertilizer Recommendation](https://github.com/antra2025/CropAI-Project/blob/main/screenschots/fertilizer_recommendation.png)
 
 
 
