@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 # **🌾 CropAI – AI-powered Agricultural Assistant**
 
